@@ -5,6 +5,7 @@
     font-family: 'Times New Roman', Times, serif;
     color: white;
     background-color: black;
+   
 }
 
 .alert-text {
@@ -19,4 +20,12 @@ button {
   
   button:hover {
     transform: scale(1.2);
+  }
+
+
+  .border {
+    border: 2px solid red;
+  }
+  .inline {
+    display: inline;
   }
