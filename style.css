@@ -34,3 +34,4 @@ button {
     background-color: black;
   }
   * {background-color: black} 
+  * {border: 2px solid red;}
